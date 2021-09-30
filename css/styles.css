@@ -153,7 +153,7 @@ h2{
 
 /* MEDIA QUERY */
 
-@media (max-width:960px){            
+@media (max-width:375px){            
     #title{
         text-align: center;
     }
